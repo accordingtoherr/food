@@ -1,0 +1,83 @@
+
+
+
+.navbar {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+
+  margin: 0;
+  
+  }
+
+  .color-me{
+    color:#CF6942;
+}
+  
+.btn{
+  font-family: 'Roboto', sans-serif;
+}
+
+
+
+.jumbotron{
+  background-size: cover;
+  min-height: 425px;
+}
+
+
+ .title {
+    
+    color:#CF6942;
+    text-shadow: -1px -1px 0 #ffffff, 1px -1px 0 #ffffff, -1px 1px 0 #ffffff, 1px 1px 0 #ffffff;
+    font-size: 80px;
+font-family: 'Bangers', cursive;
+
+  }
+
+  .ashley{
+    text-align: center;
+    display: inline-block;
+    border-radius: 15px;
+   
+  }
+
+  .border{
+    border: 5px solid black;
+  }
+
+
+  .innovation{
+    text-shadow: -1px -1px 0 #000000, 1px -1px 0 #000000, -1px 1px 0 #000000, 1px 1px 0 #000000;
+
+  }
+  .name{
+  text-align: center;    
+  font-family: 'Anton', sans-serif;
+  font-weight: bold;
+  color:black;
+  text-shadow: cadetblue;
+  }
+  
+  .card-img-top{
+  
+    border-radius: 15px;
+   
+}
+
+.card{
+  border: 1px solid #ffffff;
+}
+
+  .navbar-inner {
+    background:transparent;
+}
+.form-control{
+  font-family: 'Roboto', sans-serif;
+}
+
+
+ul#navigation .active {
+  font-weight: bold;
+} 
+
+
